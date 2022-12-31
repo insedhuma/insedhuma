@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hi, I am a fullstack web developer and data scientist<br>I am a huge fan of opensource software and look forward to contributing to projects that involve web development and machine learning
 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/dna_encoded) 
 
@@ -15,7 +16,5 @@ Hi, I am a fullstack web developer and data scientist<br>I am a huge fan of open
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=insedhuma&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 Proudly created with [GPRM](https://gprm.itsvg.in)
