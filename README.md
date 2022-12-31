@@ -21,4 +21,4 @@ Hi, I am a fullstack web developer and data scientist<br>I am a huge fan of open
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in )
